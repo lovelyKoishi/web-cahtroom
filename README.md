@@ -43,4 +43,4 @@ python app.py
 - 在线用户管理：`handle_connect` 和 `handle_disconnect` 事件
 
 如需自定义或扩展功能，请修改 `app.py` 文件
-![效果](屏幕截图 2025-07-16 165024.png)
+![聊天室效果截图](https://github.com/lovelyKoishi/web-cahtroom/blob/main/display.png)
